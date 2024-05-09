@@ -1,3 +1,4 @@
+
 In this project, we'll predict the winner of football matches in the English Premier League (EPL).
 
 Project Steps
@@ -17,9 +18,15 @@ Installation
 To follow this project, please install the following locally:
 
 JupyerLab
+
 Python 3.8+
 Python packages
 pandas
 requests
 BeautifulSoup
 scikit-learn
+
+
+
+
+<img width="812" alt="py" src="https://github.com/anjalikhushi/WebScraping-in-Python/assets/82653640/e3782b39-17d4-48c7-b3ff-681c8edd104f">
