@@ -1,12 +1,12 @@
 # English Premier League Analysis
 In this project, we'll predict the winner of football matches in the English Premier League (EPL).
 
-<img width="1500" alt="dd" src="https://github.com/anjalikhushi/WebScraping-in-Python/assets/82653640/3e54e5bd-39c5-472c-ae04-68c9af144109">
+<img width="1400" alt="dd" src="https://github.com/anjalikhushi/WebScraping-in-Python/assets/82653640/3e54e5bd-39c5-472c-ae04-68c9af144109">
 
 
 
 
-## Algorithm used(Random Forest)
+## Algorithm used(Random Forest)-
 Random Forest is a versatile and powerful algorithm that combines the strengths of decision trees and ensemble learning. It is widely used due to its robustness, ease of use, and ability to provide reliable predictions across various domains.
 ##### Evaluated the performance of model using appropriate metrics to assess accuracy,precision and effectiveness.
 # Steps:
