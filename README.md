@@ -6,6 +6,7 @@ In this project, we'll predict the winner of football matches in the English Pre
 
 
 
+
 ## Algorithm used(Random Forest)-
 Random Forest is a versatile and powerful algorithm that combines the strengths of decision trees and ensemble learning. It is widely used due to its robustness, ease of use, and ability to provide reliable predictions across various domains.
 ##### Evaluated the performance of model using appropriate metrics to assess accuracy,precision and effectiveness.
